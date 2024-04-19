@@ -1,0 +1,10 @@
+#arc-en-ciel {
+    display: flex;
+    justify-content: space-between;
+}
+
+#arc-en-ciel img {
+    width: 100px;
+    /* Ajustez la taille selon vos besoins */
+    /* height: auto; */
+}
